@@ -1,0 +1,4524 @@
+fileFormatVersion: 2
+guid: 1f008df40095e3248abd25d5be573d3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 940888875905898940
+    second: Zealot_0
+  - first:
+      213: 6596435646581328936
+    second: Zealot_1
+  - first:
+      213: -8820413251580556832
+    second: Zealot_2
+  - first:
+      213: -6922919781129091899
+    second: Zealot_3
+  - first:
+      213: 5913061476204614683
+    second: Zealot_4
+  - first:
+      213: -598752948023912690
+    second: Zealot_5
+  - first:
+      213: -6343090784028358511
+    second: Zealot_6
+  - first:
+      213: 1272506676658806232
+    second: Zealot_7
+  - first:
+      213: -2244886441583163452
+    second: Zealot_8
+  - first:
+      213: 3561094192136645509
+    second: Zealot_9
+  - first:
+      213: -1610621549805148829
+    second: Zealot_10
+  - first:
+      213: -8426568798249416314
+    second: Zealot_11
+  - first:
+      213: -6213010577817387450
+    second: Zealot_12
+  - first:
+      213: 3024643373150674518
+    second: Zealot_13
+  - first:
+      213: 1187068213845874712
+    second: Zealot_14
+  - first:
+      213: -1988537602423510455
+    second: Zealot_15
+  - first:
+      213: -2416269291427962909
+    second: Zealot_16
+  - first:
+      213: 173217100304474784
+    second: Zealot_17
+  - first:
+      213: 5911932897041628573
+    second: Zealot_18
+  - first:
+      213: 839173324369147382
+    second: Zealot_19
+  - first:
+      213: -4593706292532229416
+    second: Zealot_20
+  - first:
+      213: 4439143233903418693
+    second: Zealot_21
+  - first:
+      213: -3330670937861070581
+    second: Zealot_22
+  - first:
+      213: -3705600037656045051
+    second: Zealot_23
+  - first:
+      213: -5961305463590868384
+    second: Zealot_24
+  - first:
+      213: -676063279731295327
+    second: Zealot_25
+  - first:
+      213: -88776732386444738
+    second: Zealot_26
+  - first:
+      213: -9184435458019606305
+    second: Zealot_27
+  - first:
+      213: -2841127225623179515
+    second: Zealot_28
+  - first:
+      213: 5936877657839994628
+    second: Zealot_29
+  - first:
+      213: 3391707255413419378
+    second: Zealot_30
+  - first:
+      213: 5963447956674239687
+    second: Zealot_31
+  - first:
+      213: -3348225192160060087
+    second: Zealot_32
+  - first:
+      213: -7162284180904605118
+    second: Zealot_33
+  - first:
+      213: -638959761785778828
+    second: Zealot_34
+  - first:
+      213: 2466771336071331434
+    second: Zealot_35
+  - first:
+      213: 7174423585550345227
+    second: Zealot_36
+  - first:
+      213: -4712457527512086154
+    second: Zealot_37
+  - first:
+      213: 967572453330566978
+    second: Zealot_38
+  - first:
+      213: 1600291958082846585
+    second: Zealot_39
+  - first:
+      213: -7818430376153259690
+    second: Zealot_40
+  - first:
+      213: -8425638957192229161
+    second: Zealot_41
+  - first:
+      213: -5802817270988265966
+    second: Zealot_42
+  - first:
+      213: -1588945815024320853
+    second: Zealot_43
+  - first:
+      213: -2680139556469498790
+    second: Zealot_44
+  - first:
+      213: 8963189689557292107
+    second: Zealot_45
+  - first:
+      213: -6193065300355131066
+    second: Zealot_46
+  - first:
+      213: -4427387471241321865
+    second: Zealot_47
+  - first:
+      213: -2864684381545566099
+    second: Zealot_48
+  - first:
+      213: 2195576436620401621
+    second: Zealot_49
+  - first:
+      213: -8966577341182356425
+    second: Zealot_50
+  - first:
+      213: -5259341487025532763
+    second: Zealot_51
+  - first:
+      213: -1374190040401543118
+    second: Zealot_52
+  - first:
+      213: -1476166996256332036
+    second: Zealot_53
+  - first:
+      213: 130793420637148175
+    second: Zealot_54
+  - first:
+      213: 1761963952843182355
+    second: Zealot_55
+  - first:
+      213: 1804365125512942716
+    second: Zealot_56
+  - first:
+      213: -2887281487469906394
+    second: Zealot_57
+  - first:
+      213: 5361098458245823628
+    second: Zealot_58
+  - first:
+      213: 9105362404079519526
+    second: Zealot_59
+  - first:
+      213: -1968312976625114023
+    second: Zealot_60
+  - first:
+      213: 6958418396082007578
+    second: Zealot_61
+  - first:
+      213: -1001489649107022624
+    second: Zealot_62
+  - first:
+      213: 8158767255993282779
+    second: Zealot_63
+  - first:
+      213: -8178506169057521553
+    second: Zealot_64
+  - first:
+      213: -4986418432561296410
+    second: Zealot_65
+  - first:
+      213: -2181598671758616901
+    second: Zealot_66
+  - first:
+      213: -7759560436581340113
+    second: Zealot_67
+  - first:
+      213: 7522848624583435087
+    second: Zealot_68
+  - first:
+      213: 4581838619078544993
+    second: Zealot_69
+  - first:
+      213: 2948302983793545961
+    second: Zealot_70
+  - first:
+      213: 2142078267741762464
+    second: Zealot_71
+  - first:
+      213: 3422432709723283417
+    second: Zealot_72
+  - first:
+      213: -8565653279107299669
+    second: Zealot_73
+  - first:
+      213: -646342956062248259
+    second: Zealot_74
+  - first:
+      213: -5181005380888342079
+    second: Zealot_75
+  - first:
+      213: -8263877502239112348
+    second: Zealot_76
+  - first:
+      213: 9094221260176355945
+    second: Zealot_77
+  - first:
+      213: 5671007044098704507
+    second: Zealot_78
+  - first:
+      213: -975659710266969571
+    second: Zealot_79
+  - first:
+      213: -4017149552339782178
+    second: Zealot_80
+  - first:
+      213: 5666869646942767581
+    second: Zealot_81
+  - first:
+      213: 3785836170081233745
+    second: Zealot_82
+  - first:
+      213: 1709498748441078728
+    second: Zealot_83
+  - first:
+      213: -279141468083947062
+    second: Zealot_84
+  - first:
+      213: 8801251623757285447
+    second: Zealot_85
+  - first:
+      213: -3019950943628745700
+    second: Zealot_86
+  - first:
+      213: -675016598190806478
+    second: Zealot_87
+  - first:
+      213: -7271145159057602443
+    second: Zealot_88
+  - first:
+      213: 2593646252538828319
+    second: Zealot_89
+  - first:
+      213: -5818771522455124773
+    second: Zealot_90
+  - first:
+      213: -8461629846212014201
+    second: Zealot_91
+  - first:
+      213: -8300426362353786994
+    second: Zealot_92
+  - first:
+      213: -7919727532036856314
+    second: Zealot_93
+  - first:
+      213: 64079064384518028
+    second: Zealot_94
+  - first:
+      213: 7080080548845409346
+    second: Zealot_95
+  - first:
+      213: 4845374378008155892
+    second: Zealot_96
+  - first:
+      213: 8702678980524473244
+    second: Zealot_97
+  - first:
+      213: 7387670704659103772
+    second: Zealot_98
+  - first:
+      213: 284856648237432603
+    second: Zealot_99
+  - first:
+      213: -6649542988174645558
+    second: Zealot_100
+  - first:
+      213: -739977063556070420
+    second: Zealot_101
+  - first:
+      213: -6559679773977951034
+    second: Zealot_102
+  - first:
+      213: 2282272525415946531
+    second: Zealot_103
+  - first:
+      213: -308014788816426792
+    second: Zealot_104
+  - first:
+      213: 6899324863135610650
+    second: Zealot_105
+  - first:
+      213: -1548783148369495585
+    second: Zealot_106
+  - first:
+      213: 8142006470479392448
+    second: Zealot_107
+  - first:
+      213: -528195441204842706
+    second: Zealot_108
+  - first:
+      213: -4008452528343740737
+    second: Zealot_109
+  - first:
+      213: 297882977678137699
+    second: Zealot_110
+  - first:
+      213: 7513221590419276303
+    second: Zealot_111
+  - first:
+      213: 7405982895973380473
+    second: Zealot_112
+  - first:
+      213: 2862013979779372335
+    second: Zealot_113
+  - first:
+      213: 8529978531500557267
+    second: Zealot_114
+  - first:
+      213: 8515173483036589777
+    second: Zealot_115
+  - first:
+      213: -2894342193833070279
+    second: Zealot_116
+  - first:
+      213: 6344716991536053920
+    second: Zealot_117
+  - first:
+      213: -7419957100761899680
+    second: Zealot_118
+  - first:
+      213: -7754594134270111995
+    second: Zealot_119
+  - first:
+      213: 5705952632760954690
+    second: Zealot_120
+  - first:
+      213: -7933195627472085785
+    second: Zealot_121
+  - first:
+      213: 137519020302052558
+    second: Zealot_122
+  - first:
+      213: -8707914492014688266
+    second: Zealot_123
+  - first:
+      213: -3453248392083507232
+    second: Zealot_124
+  - first:
+      213: -4017291972101689588
+    second: Zealot_125
+  - first:
+      213: -7775095002307003374
+    second: Zealot_126
+  - first:
+      213: 8231809277134501889
+    second: Zealot_127
+  - first:
+      213: -6534401436822533874
+    second: Zealot_128
+  - first:
+      213: -5163275514835074567
+    second: Zealot_129
+  - first:
+      213: -35316387894965983
+    second: Zealot_130
+  - first:
+      213: 8271765362967266826
+    second: Zealot_131
+  - first:
+      213: -2832595501425089988
+    second: Zealot_132
+  - first:
+      213: 5364365047344992409
+    second: Zealot_133
+  - first:
+      213: -7002146955513144488
+    second: Zealot_134
+  - first:
+      213: 6075851686617003989
+    second: Zealot_135
+  - first:
+      213: -8047794083932284462
+    second: Zealot_136
+  - first:
+      213: 6642878356126932089
+    second: Zealot_137
+  - first:
+      213: -6036922224736107183
+    second: Zealot_138
+  - first:
+      213: 4251468403026758000
+    second: Zealot_139
+  - first:
+      213: 2923913059590326215
+    second: Zealot_140
+  - first:
+      213: -3132781757285531948
+    second: Zealot_141
+  - first:
+      213: -5297723388636891128
+    second: Zealot_142
+  - first:
+      213: 190477761137333697
+    second: Zealot_143
+  - first:
+      213: 7664888494149946981
+    second: Zealot_144
+  - first:
+      213: 7495485122374411455
+    second: Zealot_145
+  - first:
+      213: 1751417930860297745
+    second: Zealot_146
+  - first:
+      213: 4332017163017667432
+    second: Zealot_147
+  - first:
+      213: 6647861822482673341
+    second: Zealot_148
+  - first:
+      213: -4905715528273536366
+    second: Zealot_149
+  - first:
+      213: -6234350995734690404
+    second: Zealot_150
+  - first:
+      213: -5538167921913746100
+    second: Zealot_151
+  - first:
+      213: -7812285261107569867
+    second: Zealot_152
+  - first:
+      213: -8299380724507813941
+    second: Zealot_153
+  - first:
+      213: 8875972213536123562
+    second: Zealot_154
+  - first:
+      213: -6544174104707826153
+    second: Zealot_155
+  - first:
+      213: 5445061518490950518
+    second: Zealot_156
+  - first:
+      213: -1848646694476202050
+    second: Zealot_157
+  - first:
+      213: 2565478960326203772
+    second: Zealot_158
+  - first:
+      213: 1255048005464792416
+    second: Zealot_159
+  - first:
+      213: 7137781247603025771
+    second: Zealot_160
+  - first:
+      213: -3090189820653788418
+    second: Zealot_161
+  - first:
+      213: 6407935434924595711
+    second: Zealot_162
+  - first:
+      213: 9080499185317755035
+    second: Zealot_163
+  - first:
+      213: 5679699038049890177
+    second: Zealot_164
+  - first:
+      213: -5048405904703799973
+    second: Zealot_165
+  - first:
+      213: -1651937104002710273
+    second: Zealot_166
+  - first:
+      213: -2704918871261596737
+    second: Zealot_167
+  - first:
+      213: 6229111475567029106
+    second: Zealot_168
+  - first:
+      213: 2886098417493202596
+    second: Zealot_169
+  - first:
+      213: -2511829493249518876
+    second: Zealot_170
+  - first:
+      213: 8177013420453842697
+    second: Zealot_171
+  - first:
+      213: 6119234856266063918
+    second: Zealot_172
+  - first:
+      213: -6321341562216406560
+    second: Zealot_173
+  - first:
+      213: 1477085597887433305
+    second: Zealot_174
+  - first:
+      213: -2496207910626405798
+    second: Zealot_175
+  - first:
+      213: 4091844437592828030
+    second: Zealot_176
+  - first:
+      213: 6669043789641118795
+    second: Zealot_177
+  - first:
+      213: -4886198052528336757
+    second: Zealot_178
+  - first:
+      213: -4431532346968583042
+    second: Zealot_179
+  - first:
+      213: 5859482225153982507
+    second: Zealot_180
+  - first:
+      213: -4881946578329686828
+    second: Zealot_181
+  - first:
+      213: 1870535854439909637
+    second: Zealot_182
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zealot_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1164
+        width: 37
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9dc759275be0d00800000000000000
+      internalID: 940888875905898940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1164
+        width: 38
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c443a654f3b8b50800000000000000
+      internalID: 6596435646581328936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1164
+        width: 38
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9846751e8979580800000000000000
+      internalID: -8820413251580556832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1164
+        width: 38
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c486456329dcef90800000000000000
+      internalID: -6922919781129091899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1164
+        width: 39
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b141938751a6f0250800000000000000
+      internalID: 5913061476204614683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1164
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0711d8bd5dc0b7f0800000000000000
+      internalID: -598752948023912690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1164
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1988feff980d8f7a0800000000000000
+      internalID: -6343090784028358511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_7
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1187
+        width: 40
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd9f84941ad8a110800000000000000
+      internalID: 1272506676658806232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_8
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1188
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74850ecaf88d0e0800000000000000
+      internalID: -2244886441583163452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1053
+        width: 39
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58be20edc4c8b6130800000000000000
+      internalID: 3561094192136645509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1051
+        width: 38
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3656640eb3ce5a9e0800000000000000
+      internalID: -1610621549805148829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1053
+        width: 37
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68904f8e250de0b80800000000000000
+      internalID: -8426568798249416314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1053
+        width: 35
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e33732cc3f6c9a0800000000000000
+      internalID: -6213010577817387450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1053
+        width: 37
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e92e46f11b9f920800000000000000
+      internalID: 3024643373150674518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1053
+        width: 39
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d07a4040597010800000000000000
+      internalID: 1187068213845874712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_15
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1052
+        width: 40
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2a09169b4764e0800000000000000
+      internalID: -1988537602423510455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_16
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1122
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef50c2a1efa77ed0800000000000000
+      internalID: -2416269291427962909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_17
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1121
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2eba4f804676200800000000000000
+      internalID: 173217100304474784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_18
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1053
+        width: 38
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbc18a5a76b0250800000000000000
+      internalID: 5911932897041628573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 915
+        width: 35
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5b10041b755ab00800000000000000
+      internalID: 839173324369147382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 916
+        width: 45
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dac3272770ef30c0800000000000000
+      internalID: -4593706292532229416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 916
+        width: 46
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d54eb60410b9d30800000000000000
+      internalID: 4439143233903418693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_22
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 916
+        width: 47
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01e21dbd6417c1d0800000000000000
+      internalID: -3330670937861070581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_23
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 916
+        width: 52
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a56db1660139cc0800000000000000
+      internalID: -3705600037656045051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_24
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 916
+        width: 58
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a2215e340354da0800000000000000
+      internalID: -5961305463590868384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_25
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 992
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab3eed67042e96f0800000000000000
+      internalID: -676063279731295327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 786
+        width: 59
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a39c1480a94cef0800000000000000
+      internalID: -88776732386444738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 875
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd04d36bc945a8080800000000000000
+      internalID: -9184435458019606305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 785
+        width: 61
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0a0b57d94298d0800000000000000
+      internalID: -2841127225623179515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 857
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407818e56c6046250800000000000000
+      internalID: 5936877657839994628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 786
+        width: 43
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d280d57c3c11f20800000000000000
+      internalID: 3391707255413419378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 786
+        width: 47
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccd816225c62c250800000000000000
+      internalID: 5963447956674239687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 786
+        width: 57
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d19496de6b881d0800000000000000
+      internalID: -3348225192160060087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_33
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 786
+        width: 44
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a08c02c747a9c90800000000000000
+      internalID: -7162284180904605118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_34
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 786
+        width: 42
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d8df46b75f127f0800000000000000
+      internalID: -638959761785778828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 672
+        width: 46
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eb5ace57bbb3220800000000000000
+      internalID: 2466771336071331434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 672
+        width: 47
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04a9e44d3ca09360800000000000000
+      internalID: 7174423585550345227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 672
+        width: 77
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c68da8dcf99eb0800000000000000
+      internalID: -4712457527512086154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 672
+        width: 77
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fb83715028d6d00800000000000000
+      internalID: 967572453330566978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 698
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f3172ae01653610800000000000000
+      internalID: 1600291958082846585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 733
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651e2482ffa5f7390800000000000000
+      internalID: -7818430376153259690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_41
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 672
+        width: 46
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de4dd6620e121b80800000000000000
+      internalID: -8425638957192229161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_42
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 672
+        width: 39
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2162e3acf60487fa0800000000000000
+      internalID: -5802817270988265966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 557
+        width: 42
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeb128233ee2f9e0800000000000000
+      internalID: -1588945815024320853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 556
+        width: 44
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c992cf54b3ecad0800000000000000
+      internalID: -2680139556469498790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 554
+        width: 50
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44918c9885a36c70800000000000000
+      internalID: 8963189689557292107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 546
+        width: 56
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649d88debefcd0aa0800000000000000
+      internalID: -6193065300355131066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 535
+        width: 65
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77265ad5d82ce82c0800000000000000
+      internalID: -4427387471241321865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_48
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 554
+        width: 44
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60fd549bb89e38d0800000000000000
+      internalID: -2864684381545566099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_49
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 556
+        width: 42
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db1afde221487e10800000000000000
+      internalID: 2195576436620401621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 557
+        width: 45
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73452c74a61509380800000000000000
+      internalID: -8966577341182356425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 434
+        width: 50
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a05e5168c01307b0800000000000000
+      internalID: -5259341487025532763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 434
+        width: 48
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2308cf36075edece0800000000000000
+      internalID: -1374190040401543118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 433
+        width: 43
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf66cfe10f9938be0800000000000000
+      internalID: -1476166996256332036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_54
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 433
+        width: 40
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0419005ceba0d100800000000000000
+      internalID: 130793420637148175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 433
+        width: 40
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311d24c31e0c37810800000000000000
+      internalID: 1761963952843182355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_56
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 439
+        width: 58
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c745d4f85846a0910800000000000000
+      internalID: 1804365125512942716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_57
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 481
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6267bccd8c05ee7d0800000000000000
+      internalID: -2887281487469906394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_58
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 493
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf2a9b4a2766a40800000000000000
+      internalID: 5361098458245823628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_59
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 493
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6274b5e3ddebc5e70800000000000000
+      internalID: 9105362404079519526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_60
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 493
+        width: 11
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954e77db6c52fa4e0800000000000000
+      internalID: -1968312976625114023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_61
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 493
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ee209f9a4419060800000000000000
+      internalID: 6958418396082007578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_62
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 493
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecceb2687ef912f0800000000000000
+      internalID: -1001489649107022624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_63
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 461
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd07192a793c93170800000000000000
+      internalID: 8158767255993282779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_64
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 461
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f605cf788fb108e80800000000000000
+      internalID: -8178506169057521553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_65
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 461
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb49b1dadeaccab0800000000000000
+      internalID: -4986418432561296410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_66
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 461
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb61d5f019769b1e0800000000000000
+      internalID: -2181598671758616901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_67
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 461
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ce46415e0805490800000000000000
+      internalID: -7759560436581340113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_68
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 461
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43e45f57f6866860800000000000000
+      internalID: 7522848624583435087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_69
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 461
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ec75cc2f5f59f30800000000000000
+      internalID: 4581838619078544993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_70
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 461
+        width: 5
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e21d3761f97ae820800000000000000
+      internalID: 2948302983793545961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_71
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 461
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f4d5d5d03abd10800000000000000
+      internalID: 2142078267741762464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_72
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 458
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfdbbaaa6cee7f20800000000000000
+      internalID: 3422432709723283417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_73
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 461
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba646a5b9bfa02980800000000000000
+      internalID: -8565653279107299669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_74
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 461
+        width: 4
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db275d4818ab707f0800000000000000
+      internalID: -646342956062248259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_75
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 461
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c153c46e0f5918b0800000000000000
+      internalID: -5181005380888342079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_76
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 461
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46302b3123fc05d80800000000000000
+      internalID: -8263877502239112348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_77
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 461
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962fd998d0a253e70800000000000000
+      internalID: 9094221260176355945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_78
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 461
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74cd3e3cd673be40800000000000000
+      internalID: 5671007044098704507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_79
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 461
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1270eba9a2c572f0800000000000000
+      internalID: -975659710266969571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_80
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 458
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5fa2314c73048c0800000000000000
+      internalID: -4017149552339782178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_81
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 461
+        width: 26
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd987766be3c4ae40800000000000000
+      internalID: 5666869646942767581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_82
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 445
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b648f30fdf98430800000000000000
+      internalID: 3785836170081233745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_83
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 445
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2ecced0c59b710800000000000000
+      internalID: 1709498748441078728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_84
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 443
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac976c0505a402cf0800000000000000
+      internalID: -279141468083947062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_85
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 445
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74802e488b3542a70800000000000000
+      internalID: 8801251623757285447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_86
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 445
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1427edfd9af616d0800000000000000
+      internalID: -3019950943628745700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_87
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 445
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a2857fafbd1a6f0800000000000000
+      internalID: -675016598190806478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_88
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 442
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57802148004b71b90800000000000000
+      internalID: -7271145159057602443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_89
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 445
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f169993668b7ef320800000000000000
+      internalID: 2593646252538828319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_90
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 445
+        width: 4
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd447e621229f3fa0800000000000000
+      internalID: -5818771522455124773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_91
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 445
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f80bb8c70429a80800000000000000
+      internalID: -8461629846212014201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_92
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 445
+        width: 15
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f5d937336fecc80800000000000000
+      internalID: -8300426362353786994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_93
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 445
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606ef0725c9771290800000000000000
+      internalID: -7919727532036856314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_94
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 445
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87bd2ec197a3e000800000000000000
+      internalID: 64079064384518028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_95
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 445
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244551f4fbf714260800000000000000
+      internalID: 7080080548845409346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_96
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 445
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f694fc235a3e3340800000000000000
+      internalID: 4845374378008155892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_97
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 329
+        width: 75
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b7b6c8c6026c870800000000000000
+      internalID: 8702678980524473244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_98
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 329
+        width: 69
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1004c44d57468660800000000000000
+      internalID: 7387670704659103772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_99
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 327
+        width: 66
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fb912cc9304f300800000000000000
+      internalID: 284856648237432603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 325
+        width: 70
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6292f02e318b3a0800000000000000
+      internalID: -6649542988174645558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_101
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 319
+        width: 62
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3cdc008c21bb5f0800000000000000
+      internalID: -739977063556070420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_102
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 335
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4cabf000657f4a0800000000000000
+      internalID: -6559679773977951034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_103
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 361
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3291d0615c24caf10800000000000000
+      internalID: 2282272525415946531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_104
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 358
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8a7077e26b9bbf0800000000000000
+      internalID: -308014788816426792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_105
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 358
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17f739a8635fbf50800000000000000
+      internalID: 6899324863135610650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_106
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 361
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9335faeed918ae0800000000000000
+      internalID: -1548783148369495585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_107
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 361
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2bd72fb73ef070800000000000000
+      internalID: 8142006470479392448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_108
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 361
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f21037b097ba8f0800000000000000
+      internalID: -528195441204842706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_109
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 358
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe0e05c9ad1f58c0800000000000000
+      internalID: -4008452528343740737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_110
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 308
+        width: 49
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369142d6dfa422400800000000000000
+      internalID: 297882977678137699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_111
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 340
+        width: 124
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f028cbfca33544860800000000000000
+      internalID: 7513221590419276303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_112
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 343
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971bc1f843657c660800000000000000
+      internalID: 7405982895973380473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_113
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 343
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2593fe0d8ae7b720800000000000000
+      internalID: 2862013979779372335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_114
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 343
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d38cc7d742906670800000000000000
+      internalID: 8529978531500557267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 343
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb831ea29fb2670800000000000000
+      internalID: 8515173483036589777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_116
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 327
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b72e0c1b35d7d0800000000000000
+      internalID: -2894342193833070279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_117
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 327
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae34e0fc76fc0850800000000000000
+      internalID: 6344716991536053920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_118
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 327
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d13785454070990800000000000000
+      internalID: -7419957100761899680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_119
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 327
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f808178b5226490800000000000000
+      internalID: -7754594134270111995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_120
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 324
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24febe420bd9f2f40800000000000000
+      internalID: 5705952632760954690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_121
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 327
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec18d2db90a7e190800000000000000
+      internalID: -7933195627472085785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_122
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 327
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca6f202d098e100800000000000000
+      internalID: 137519020302052558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_123
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 327
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f70df0f7e5472780800000000000000
+      internalID: -8707914492014688266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_124
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 325
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e77cac22e89310d0800000000000000
+      internalID: -3453248392083507232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_125
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 324
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fa9d36c36bf38c0800000000000000
+      internalID: -4017291972101689588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_126
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 327
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c73942a40591490800000000000000
+      internalID: -7775095002307003374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_127
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 327
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108fd5e6ce24d3270800000000000000
+      internalID: 8231809277134501889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_128
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 327
+        width: 10
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09046293842155a0800000000000000
+      internalID: -6534401436822533874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_129
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 327
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f188c4864c5858b0800000000000000
+      internalID: -5163275514835074567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_130
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 327
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12945ccaee7828ff0800000000000000
+      internalID: -35316387894965983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_131
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 308
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064b0d95c63bc270800000000000000
+      internalID: 8271765362967266826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_132
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 311
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c322031366990b8d0800000000000000
+      internalID: -2832595501425089988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_133
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 311
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9901584c69d027a40800000000000000
+      internalID: 5364365047344992409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_134
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 311
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b5e83617063de90800000000000000
+      internalID: -7002146955513144488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_135
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 311
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7b3c0fae2c15450800000000000000
+      internalID: 6075851686617003989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_136
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 308
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d9b17bed705090800000000000000
+      internalID: -8047794083932284462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_137
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 311
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c931f5bae303c50800000000000000
+      internalID: 6642878356126932089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_138
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 311
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15581f9b83b883ca0800000000000000
+      internalID: -6036922224736107183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_139
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 311
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0790530ccff300b30800000000000000
+      internalID: 4251468403026758000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_140
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 311
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7c107af63d39820800000000000000
+      internalID: 2923913059590326215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_141
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 311
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4defb26079f1684d0800000000000000
+      internalID: -3132781757285531948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_142
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 311
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f40685a4ba76b0800000000000000
+      internalID: -5297723388636891128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_143
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 311
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5d33ab386b4a200800000000000000
+      internalID: 190477761137333697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_144
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 198
+        width: 60
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e49c0a9772f5a60800000000000000
+      internalID: 7664888494149946981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_145
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 197
+        width: 62
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb42a5a8100550860800000000000000
+      internalID: 7495485122374411455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_146
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 198
+        width: 56
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e7d2624594e4810800000000000000
+      internalID: 1751417930860297745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_147
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 197
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863409268aa6e1c30800000000000000
+      internalID: 4332017163017667432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_148
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 197
+        width: 53
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee5fc0b13f14c50800000000000000
+      internalID: 6647861822482673341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_149
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 197
+        width: 55
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a5328f7b56bebb0800000000000000
+      internalID: -4905715528273536366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_150
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 151
+        width: 50
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c958126ecc22b79a0800000000000000
+      internalID: -6234350995734690404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_151
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 189
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d2ed31e997423b0800000000000000
+      internalID: -5538167921913746100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_152
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 195
+        width: 54
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bd9af32ff259390800000000000000
+      internalID: -7812285261107569867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_153
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 65
+        width: 54
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7dcfbf33da2dc80800000000000000
+      internalID: -8299380724507813941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_154
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaee0883b9cd2b70800000000000000
+      internalID: 8875972213536123562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_155
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 168
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e7494035c6e25a0800000000000000
+      internalID: -6544174104707826153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_156
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 65
+        width: 56
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b5dc51a9eb09b40800000000000000
+      internalID: 5445061518490950518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_157
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 171
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfbb8c30a94856e0800000000000000
+      internalID: -1848646694476202050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_158
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 145
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795bfc95896a9320800000000000000
+      internalID: 2565478960326203772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_159
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 65
+        width: 53
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9acde283da6110800000000000000
+      internalID: 1255048005464792416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_160
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 46
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67a2d32a3e7e0360800000000000000
+      internalID: 7137781247603025771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_161
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2276b0bb07d15d0800000000000000
+      internalID: -3090189820653788418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 47
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9915ec35f8de850800000000000000
+      internalID: 6407935434924595711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_163
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 65
+        width: 47
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98b61406e9640e70800000000000000
+      internalID: 9080499185317755035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_164
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 137
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f671ace2852de40800000000000000
+      internalID: 5679699038049890177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_165
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 65
+        width: 40
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d3528c39570f9b0800000000000000
+      internalID: -5048405904703799973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 35
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff481acc4f32319e0800000000000000
+      internalID: -1651937104002710273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_167
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 41
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3b33c2e92367ad0800000000000000
+      internalID: -2704918871261596737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_168
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 12
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b6b7f32ef327650800000000000000
+      internalID: 6229111475567029106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_169
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 12
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6df71383b7d0820800000000000000
+      internalID: 2886098417493202596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_170
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 14
+        width: 54
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e253865260342dd0800000000000000
+      internalID: -2511829493249518876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_171
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 12
+        width: 49
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fc0c9d1669a7170800000000000000
+      internalID: 8177013420453842697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_172
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 12
+        width: 50
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e206de04ea3ebe450800000000000000
+      internalID: 6119234856266063918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_173
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 42
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1ad2057551648a0800000000000000
+      internalID: -6321341562216406560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_174
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 7
+        width: 41
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0dec7689af7410800000000000000
+      internalID: 1477085597887433305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_175
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 4
+        width: 35
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52d7997120bb5dd0800000000000000
+      internalID: -2496207910626405798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_176
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 45
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78e0e226d629c830800000000000000
+      internalID: 4091844437592828030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 37
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4475191ef33d8c50800000000000000
+      internalID: 6669043789641118795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_178
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 33
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d7d862ccb03cb0800000000000000
+      internalID: -4886198052528336757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_179
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 23
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74d8484fc80082c0800000000000000
+      internalID: -4431532346968583042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_180
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 18
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c406f900115150800000000000000
+      internalID: 5859482225153982507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_181
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dca932e377df3cb0800000000000000
+      internalID: -4881946578329686828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zealot_182
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 12
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509c587f27a75f910800000000000000
+      internalID: 1870535854439909637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

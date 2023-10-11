@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4df433953182b9c4fb832e23c5e6f143, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  <Health>k__BackingField: 20
+  <MinDamage>k__BackingField: 6
+  <MaxDamage>k__BackingField: 10
+  <Initiative>k__BackingField: 4
+  <Speed>k__BackingField: 5
+  <Name>k__BackingField: Knight
+  <Race>k__BackingField: 0
+  <AttackTypes>k__BackingField:
+  - {fileID: 11400000, guid: 19982394dc8c3a244b1d4991172bebbd, type: 2}
+  <Abilities>k__BackingField: 0000000001000000
+  <StackPrefab>k__BackingField: {fileID: 925754222919138335, guid: e0c937810987f7742ab50c3508798701, type: 3}

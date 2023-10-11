@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4df433953182b9c4fb832e23c5e6f143, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  <Health>k__BackingField: 6
+  <MinDamage>k__BackingField: 1
+  <MaxDamage>k__BackingField: 2
+  <Initiative>k__BackingField: 4
+  <Speed>k__BackingField: 4
+  <Name>k__BackingField: Skeleton
+  <Race>k__BackingField: 1
+  <AttackTypes>k__BackingField:
+  - {fileID: 11400000, guid: 19982394dc8c3a244b1d4991172bebbd, type: 2}
+  <Abilities>k__BackingField: 
+  <StackPrefab>k__BackingField: {fileID: 7400380421139092421, guid: 00a2eb3499f065b40bb2070e06322c68, type: 3}
